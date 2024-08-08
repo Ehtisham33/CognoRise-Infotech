@@ -13,3 +13,9 @@ This project aims to classify breast cancer tumors as malignant or benign using 
 
 Project Description
 Breast cancer classification involves analyzing mammogram features to predict whether a tumor is malignant or benign. The project utilizes several machine learning algorithms to achieve high classification accuracy.
+
+Task 3 :
+Spam Email Detection
+
+Project Overview
+The Spam Email Detection project aims to build a machine learning model to classify emails as spam or not spam (ham) based on their content. The goal is to create an accurate and efficient classifier that can help in filtering unwanted spam emails from legitimate messages.
