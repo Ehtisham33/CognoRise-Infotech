@@ -19,3 +19,9 @@ Spam Email Detection
 
 Project Overview
 The Spam Email Detection project aims to build a machine learning model to classify emails as spam or not spam (ham) based on their content. The goal is to create an accurate and efficient classifier that can help in filtering unwanted spam emails from legitimate messages.
+
+Task 4 :
+Sentiment Analysis on Movie Reviews
+
+Project Overview
+This project aims to perform sentiment analysis on a dataset of movie reviews to classify them as either positive or negative.
